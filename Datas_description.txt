@@ -1,9 +1,0 @@
-File_name                                      Description
-
-Water.shp                                      Water body data
-District.shp                                    District administrative data
-Street.shp                                      Street administrative data
-Roads.shp                                     Road network data
-POls.shp                                        Point of interest data
-NeighborhoodAOl.shp               AOI data of residential Neighborhoods
-HousingExchange.shp                 House transaction data
